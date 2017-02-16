@@ -1,4 +1,4 @@
-FROM elixir:1.3.2
+FROM elixir:1.4.1
 MAINTAINER Yifan Chen <yifan@yifanchen.io>
 
 ENV DEBIAN_FRONTEND=noninteractive
